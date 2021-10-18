@@ -1,2 +1,2 @@
 # programasemc
-Repositório para armazenar o estudo de Lógica de Programação e Algoritmo utilizando a linguagem C
+Neste repositório estão todas as atividades avaliativas desenvolvidas durante a disciplina de Lógica de Programação.
