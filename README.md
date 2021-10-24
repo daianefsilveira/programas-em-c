@@ -1,11 +1,8 @@
-# programas-em-c
-
 Neste repositório estão todas as atividades avaliativas desenvolvidas durante a disciplina de Lógica de Programação.
 
 ### Atividades
 
-**Competências e/ou habilidades:
-Desenvolver o programa, interpretar o problema, projetar e implementar solução, utilizando adequadamente estruturas do  pensamento computacional e de programação**
+***Competências e/ou habilidades desenvolvidas: interpretar o problema, projetar e implementar solução, utilizando adequadamente estruturas do  pensamento computacional e de programação***
 
 - Clínica hospitalar - Atividade em grupo para desenvolver um programa na linguagem C que simule um sistema de uma clínica hospitalar, contenha um menu de opções na tela, solicite o uso dos procedimentos disponibilizados e relatório dos serviços.
 
